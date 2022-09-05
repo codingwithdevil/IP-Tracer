@@ -16,7 +16,7 @@ mainlogo = """
 {0} _| |_| |      {1}   | | | | (_| | (_|  __/ |
 {0}|_____|_|      {1}   |_|_|  \__,_|\___\___|_|
                         \033[1;33mCoded By Devil
-""".format(default_palette[0],,default_palette[1])
+""".format(default_palette[0],default_palette[1])
 
 
 minilogo ="""\033[1;32m 
