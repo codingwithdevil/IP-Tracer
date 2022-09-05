@@ -1,7 +1,7 @@
 #
 #    IP-Tracer   by Coding With Devil  https://www.youtube.com/c/CodingWithDevil/
 #    This program comes with ABSOLUTELY NO WARRANTY
-#    The use of the YTE & its resources is COMPLETE RESPONSIBILITY of the END-USER.
+#    The use of the IP-Tracer & its resources is COMPLETE RESPONSIBILITY of the END-USER.
 #    Developers assume NO liability and are NOT responsible for any damage caused by this program.
 
 default_palette = [
