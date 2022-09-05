@@ -9,7 +9,7 @@
     which is quite enough information when you are doing your own investigation and you also want to see those details on the visual map as well.
     I Will Try To Make It To a Accurate Out
 
-### [+] Installation For Kali Linux [Currently Only Tested In Linux]
+### [+] Installation For Kali Linux/Termux
 
 ```apt update```
 
