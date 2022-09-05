@@ -30,7 +30,7 @@
 
 ### Or, Use Single Command
 ```
-apt update && apt install git -y && git clone https://github.com/codingwithdevil/IP-Tracer.git && cd IP-tracer && pip3 install -r requirements.txt && python3 IP-Tracer.py
+apt update && apt install git -y && git clone https://github.com/codingwithdevil/IP-Tracer.git && cd IP-Tracer && pip3 install -r requirements.txt && python3 IP-Tracer.py
 ```
 
 ### [+] Official Youtube Channel https://www.youtube.com/c/CodingWithDevil/
